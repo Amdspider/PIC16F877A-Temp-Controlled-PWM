@@ -1,0 +1,39 @@
+# MPLAB X IDE build output
+build/
+dist/
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+
+# XC8 compiler temp files
+*.p1
+*.d
+*.pre
+*.lst
+*.sym
+*.map
+*.hex
+*.elf
+*.cof
+*.o
+*.cmf
+*.lpp
+*.sdb
+*.mcs
+
+# Node.js (used for PDF extraction — not part of the project)
+node_modules/
+package.json
+package-lock.json
+extract_pdf.js
+pdf_output.txt
+document-39.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*~
